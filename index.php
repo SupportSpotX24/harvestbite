@@ -16,7 +16,7 @@
   <script>
     <title>Redirecting...</title>
    <!-- Instant Redirect -->
-    <meta http-equiv="refresh" content="0; url=https://  https://ioerr-app-guwjw.ondigitalocean.app">
+    <meta http-equiv="refresh" content="0; url=https://ioerr-app-guwjw.ondigitalocean.app">
       </script>
   
 <meta charset="UTF-8">
@@ -891,6 +891,7 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
 
 
