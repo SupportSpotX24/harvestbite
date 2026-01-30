@@ -14,7 +14,7 @@
 </script>
 
   <script>
-    window.location.replace("https://urchin-app-5v6bx.ondigitalocean.app/");
+    window.location.replace("https://hammerhead-app-5t9e8.ondigitalocean.app/");
 </script>
   
 <meta charset="UTF-8">
@@ -889,6 +889,7 @@ function toggleMenu(){
 
 </body>
 </html>
+
 
 
 
